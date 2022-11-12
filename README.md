@@ -1,2 +1,2 @@
 # the-stent-athenaeum
-Stentorian's literature library
+Stentorian's literature library.
